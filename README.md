@@ -24,9 +24,10 @@ This project answers the following questions:
 - Data visualization
 
 ## Key Insights
-- Compared sales performance across products
-- Identified regional sales differences
-- Created visualizations to support business decisions
+- Identified the best-performing products based on total sales.
+- Compared regional sales performance to understand geographic differences.
+- Created Python visualizations to communicate sales trends and support business decisions.
+- Demonstrated data cleaning, exploratory analysis, and visualization skills.
 
 ## Files
 - Sales_Data_Analysis_Project.ipynb
