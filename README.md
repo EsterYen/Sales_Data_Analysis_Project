@@ -1,34 +1,24 @@
-# Sales Performance Analysis Using Python
-
-## Project Overview
-This project analyzes sales data to identify product performance and regional sales trends.
-
-## Tools Used
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Jupyter Notebook
-## Business Questions
-
-This project answers the following questions:
-
-1. Which products generate the highest sales?
-2. How does sales performance vary by region?
-3. Which areas show opportunities for business growth?
-## Analysis Performed
-- Data loading and cleaning
-- Exploratory data analysis
-- Product sales analysis
-- Regional sales analysis
-- Data visualization
-
-## Key Insights
-- Identified the best-performing products based on total sales.
-- Compared regional sales performance to understand geographic differences.
-- Created Python visualizations to communicate sales trends and support business decisions.
-- Demonstrated data cleaning, exploratory analysis, and visualization skills.
-
-## Files
-- Sales_Data_Analysis_Project.ipynb
-- sales_data.csv
+Sales Data Analysis Project
+Project Overview
+This project analyzes sales data to understand product performance, regional sales patterns, and sales trends over time. The goal is to use Python-based data analysis and visualization techniques to generate business insights and support data-driven decision making.
+Tools Used
+Python
+Pandas
+NumPy
+Matplotlib
+Jupyter Notebook
+Analysis Performed
+Data loading and data quality inspection
+Data cleaning and date format conversion
+Exploratory data analysis (EDA)
+Product sales performance analysis
+Regional sales performance analysis
+Time series sales trend analysis
+Data visualization for business insights
+Key Insights
+Laptop generated the highest sales among all products, indicating strong customer demand.
+Regional sales performance showed differences across markets, highlighting potential opportunities for business improvement.
+Sales trends over time provided visibility into performance changes and supported data-driven decision making.
+Project Files
+Sales_Data_Analysis_Project.ipynb — Complete analysis notebook
+sales_data.csv — Sales dataset used for analysis
